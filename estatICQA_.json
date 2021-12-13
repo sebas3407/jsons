@@ -2046,7 +2046,7 @@
             }
           }
         ],
-        "dataActualitzacio": "13/12/2021 18:00",
+        "dataActualitzacio": "13/12/2021 19:00",
         "dataInst": "31/05/2004",
         "direccio": "Parc de la Ciutadella (Entrada al zoolÃ²gic)",
         "elevacio": 7,
@@ -2055,7 +2055,7 @@
         "id": "ES1679A",
         "localitat": "Barcelona",
         "nom": "Barcelona (Ciutadella)",
-        "qualitat": "reasonably_good",
+        "qualitat": "good",
         "zona": {
           "id": "1",
           "nom": "Ã€rea de Barcelona"
