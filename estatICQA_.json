@@ -4254,7 +4254,7 @@
             }
           }
         ],
-        "dataActualitzacio": "23/11/2021 07:00",
+        "dataActualitzacio": "23/11/2021 08:00",
         "dataInst": "07/05/2013",
         "direccio": "C. del Pla del MolÃ­ / C. de Folch i Torres",
         "elevacio": 255,
@@ -4263,7 +4263,7 @@
         "id": "ES2034A",
         "localitat": "Juneda",
         "nom": "Juneda (Pla del MolÃ­)",
-        "qualitat": "regular",
+        "qualitat": "reasonably_good",
         "zona": {
           "id": "14",
           "nom": "Terres de Ponent"
