@@ -1169,7 +1169,7 @@
         "id": "ES1275A",
         "localitat": "Sant Celoni",
         "nom": "Sant Celoni",
-        "qualitat": "bona",
+        "qualitat": "desfavorable",
         "zona": {
           "id": "8",
           "nom": "Comarques de Girona"
@@ -2046,7 +2046,7 @@
             }
           }
         ],
-        "dataActualitzacio": "13/12/2021 19:00",
+        "dataActualitzacio": "13/12/2021 20:00",
         "dataInst": "31/05/2004",
         "direccio": "Parc de la Ciutadella (Entrada al zoolÃ²gic)",
         "elevacio": 7,
@@ -2055,7 +2055,7 @@
         "id": "ES1679A",
         "localitat": "Barcelona",
         "nom": "Barcelona (Ciutadella)",
-        "qualitat": "good",
+        "qualitat": "raonablement_bona",
         "zona": {
           "id": "1",
           "nom": "Ã€rea de Barcelona"
