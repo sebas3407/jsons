@@ -3845,7 +3845,7 @@
             }
           }
         ],
-        "dataActualitzacio": "23/11/2021 07:00",
+        "dataActualitzacio": "23/12/2021 07:00",
         "dataInst": "26/02/1992",
         "direccio": "C. de Sant DomÃ¨nec / C. d'ItÃ&nbsp;lia",
         "elevacio": 8,
@@ -4139,7 +4139,7 @@
             }
           }
         ],
-        "dataActualitzacio": "23/11/2021 07:00",
+        "dataActualitzacio": "23/12/2021 07:00",
         "dataInst": "01/03/2006",
         "direccio": "Camp de futbol",
         "elevacio": 220,
@@ -4148,7 +4148,7 @@
         "id": "ES1813A",
         "localitat": "els Guiamets",
         "nom": "Els Guiamets",
-        "qualitat": "bona",
+        "qualitat": "raonablement_bona",
         "zona": {
           "id": "15",
           "nom": "Terres de l'Ebre"
@@ -4521,7 +4521,7 @@
             }
           }
         ],
-        "dataActualitzacio": "23/11/2021 07:00",
+        "dataActualitzacio": "23/12/2021 07:00",
         "dataInst": "31/05/1991",
         "direccio": "C. de FÃ¨lix Duran Canyameres / C. de Sant Antoni Maria Claret",
         "elevacio": 78,
@@ -4530,7 +4530,7 @@
         "id": "ES1126A",
         "localitat": "Martorell",
         "nom": "Martorell",
-        "qualitat": "bona",
+        "qualitat": "desfavorable",
         "zona": {
           "id": "2",
           "nom": "VallÃ¨s - Baix Llobregat"
@@ -5780,7 +5780,7 @@
             }
           }
         ],
-        "dataActualitzacio": "23/11/2021 07:00",
+        "dataActualitzacio": "23/12/2021 07:00",
         "dataInst": "01/01/1982",
         "direccio": "C. de Lope de Vega / C. de Pujades",
         "elevacio": 3,
@@ -5789,7 +5789,7 @@
         "id": "ES0691A",
         "localitat": "Barcelona",
         "nom": "Barcelona (Poblenou)",
-        "qualitat": "bona",
+        "qualitat": "molt_desfavorable",
         "zona": {
           "id": "1",
           "nom": "Ã€rea de Barcelona"
@@ -7118,7 +7118,7 @@
             }
           }
         ],
-        "dataActualitzacio": "23/11/2021 07:00",
+        "dataActualitzacio": "23/12/2021 07:00",
         "dataInst": "31/03/1991",
         "direccio": "Pl. d'Espanya, s/n",
         "elevacio": 238,
@@ -7127,7 +7127,7 @@
         "id": "ES1125A",
         "localitat": "Manresa",
         "nom": "Manresa",
-        "qualitat": "bona",
+        "qualitat": "pobre",
         "zona": {
           "id": "5",
           "nom": "Catalunya Central"
