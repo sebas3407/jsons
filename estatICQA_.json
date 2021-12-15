@@ -13753,7 +13753,7 @@
                 "data": "20211115"
               },
               {
-                "valor": "25.8",
+                "valor": "75.8",
                 "qualitat": "bona",
                 "data": "20211114"
               }
@@ -13770,7 +13770,7 @@
             "abbr": "NO2",
             "valor": "14",
             "um": "Âµg/m3",
-            "qualitat": "bona",
+            "qualitat": "pobre",
             "historic": [
               {
                 "valor": "14.0",
